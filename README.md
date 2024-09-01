@@ -12,7 +12,7 @@ This project aims to bridge the gap between freelancers and employers by providi
 - **Freelancer Profiles**: Create and manage freelancer profiles and portfolios.
 - **Employer Job Posting**: Post new job opportunities and manage applications.
 - **Responsive Design**: The interface is optimized for both desktop and mobile devices.
-- 
+
 ## Installation
 
 To set up and run the project locally, follow these steps:
