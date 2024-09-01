@@ -8,19 +8,32 @@ This project aims to bridge the gap between freelancers and employers by providi
 
 ## Features
 
-- **Freelance Job Marketplace**: Find and apply for short-term jobs, gig work, and project-based opportunities.
-- **Freelancer Profile & Portfolio Management**: Create detailed profiles, showcase skills, and receive feedback through ratings and reviews.
-- **Advanced Search & Analytics**: Perform extensive searches and receive AI-based recommendations for job opportunities and talent.
-- **Escrow Account Creation**: Securely hold funds until job completion and facilitate smooth transactions through integrated payment gateways.
+- **Job Marketplace**: View and apply for short-term and project-based job opportunities.
+- **Freelancer Profiles**: Create and manage freelancer profiles and portfolios.
+- **Employer Job Posting**: Post new job opportunities and manage applications.
+- **Responsive Design**: The interface is optimized for both desktop and mobile devices.
 - 
 ## Installation
 
 To set up and run the project locally, follow these steps:
+To get the frontend up and running locally, follow these steps:
 
-
-
-
-
+1.Clone the repository:
+  ```bash
+   git clone https://github.com/teja-pola/FIVERR-FRONTEND.git
+   ```
+2.Navigate to the project directory:
+  ```bash
+   cd FIVERR-FRONTEND
+   ```
+3.Install dependencies:
+   ```bash
+   npm install
+   ```
+4. Run
+  ```bash
+  npm run dev
+  ```
 ## Common Errors and Solutions
 If you encounter any error while installing dependencies ffollow the steps:
 Solutions:
