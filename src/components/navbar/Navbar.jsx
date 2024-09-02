@@ -23,7 +23,7 @@ function Navbar() {
 
   const currentUser = {
     id: 1,
-    username: "Anna",
+    username: "Vaishnav",
     isSeller: true,
   };
 
@@ -31,20 +31,21 @@ function Navbar() {
     <div className={active || pathname !== "/" ? "navbar active" : "navbar"}>
       <div className="container">
         <div className="logo">
+        
           <Link className="link" to="/">
-            <span className="text">liverr</span>
+            <span className="text">INNOVATIA</span>
           </Link>
           <span className="dot">.</span>
         </div>
         <div className="links">
-          <span>Liverr Business</span>
+          <span>Innovatia Business</span>
           <span>Explore</span>
           <span>English</span>
-          {!currentUser?.isSeller && <span>Become a Seller</span>}
+          {!currentUser?.isSeller && <span>Become a freelancer</span>}
           {currentUser ? (
             <div className="user" onClick={()=>setOpen(!open)}>
               <img
-                src="https://images.pexels.com/photos/1115697/pexels-photo-1115697.jpeg?auto=compress&cs=tinysrgb&w=1600"
+                src="https://media.licdn.com/dms/image/v2/D4D03AQHeFGjar94wVw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1725271784901?e=1730937600&v=beta&t=NN8D3Wa2DBB0vqfsh4Pr8Ae4vW7ZTjh62t8KRidA1Yk"
                 alt=""
               />
               <span>{currentUser?.username}</span>

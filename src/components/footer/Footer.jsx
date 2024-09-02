@@ -34,8 +34,8 @@ function Footer() {
             <h2>Support</h2>
             <span>Help & Support</span>
             <span>Trust & Safety</span>
-            <span>Selling on Liverr</span>
-            <span>Buying on Liverr</span>
+            <span>Selling on Innovatia</span>
+            <span>Buying on Innovatia</span>
           </div>
           <div className="item">
             <h2>Community</h2>
@@ -53,14 +53,14 @@ function Footer() {
           </div>
           <div className="item">
             <h2>More From Fiverr</h2>
-            <span>Liverr Business</span>
-            <span>Liverr Pro</span>
-            <span>Liverr Logo Maker</span>
-            <span>Liverr Guides</span>
+            <span>Innovatia Business</span>
+            <span>Innovatia Pro</span>
+            <span>Innovatia Logo Maker</span>
+            <span>Innovatia Guides</span>
             <span>Get Inspired</span>
-            <span>Liverr Select</span>
+            <span>Innovatia Select</span>
             <span>ClearVoice</span>
-            <span>Liverr Workspace</span>
+            <span>Innovatia Workspace</span>
             <span>Learn</span>
             <span>Working Not Working</span>
           </div>
@@ -68,8 +68,8 @@ function Footer() {
         <hr />
         <div className="bottom">
           <div className="left">
-            <h2>liverr</h2>
-            <span>© Liverr International Ltd. 2023</span>
+            <h2>Innovatia</h2>
+            <span>© Innovatia International Ltd. 2023</span>
           </div>
           <div className="right">
             <div className="social">
