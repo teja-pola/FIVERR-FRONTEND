@@ -24,7 +24,7 @@ To get the frontend up and running locally, follow these steps:
    ```
 2.Navigate to the project directory:
   ```bash
-   cd FIVERR-FRONTEND
+   cd INNOVATIA-FRONTEND
    ```
 3.Install dependencies:
    ```bash
